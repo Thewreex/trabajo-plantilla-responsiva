@@ -29,3 +29,33 @@
     width: 100%;
     background-color: rgb(241, 241, 71);
 }
+
+.contenedor-body {
+    height: 80%;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+.contenedor-aside {
+    height: 100%;
+    width: 80%;
+}
+
+.aside {
+    height: 80%;
+    width: 100%;
+    background-color: steelblue;
+}
+
+.footer {
+    height: 20%;
+    width: 100%;
+    background-color: silver;
+}
+
+.ads {
+    height: 100%;
+    width: 20%;
+    background-color: powderblue;
+}

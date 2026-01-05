@@ -1,0 +1,17 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.contenedor-principal {
+    display: flex;
+    flex-direction: row;
+    height: 100vh;
+}
+
+.nav {
+    height: 100%;
+    width: 15%;
+    background-color: rgb(65, 64, 64);
+}

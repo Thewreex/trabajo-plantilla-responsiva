@@ -8,10 +8,24 @@
     display: flex;
     flex-direction: row;
     height: 100vh;
+    width: 100%;
 }
 
 .nav {
     height: 100%;
     width: 15%;
     background-color: rgb(65, 64, 64);
+}
+
+.contenedor-derecha {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 85%;
+}
+
+.header {
+    height: 20%;
+    width: 100%;
+    background-color: rgb(241, 241, 71);
 }
